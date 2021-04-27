@@ -1,0 +1,167 @@
+[
+    {
+        "time": 0.0,
+        "velocity": 0.44721359549995787,
+        "acceleration": -0.09999999999999995,
+        "pose": {
+            "translation": {
+                "x": 3.0,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": "NaN"
+    },
+    {
+        "time": 0.2377897835109989,
+        "velocity": 0.423434617148858,
+        "acceleration": -0.0999999999999999,
+        "pose": {
+            "translation": {
+                "x": 3.103515625,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 0.4224594919267075,
+        "velocity": 0.40496764630728715,
+        "acceleration": -0.09999999999999991,
+        "pose": {
+            "translation": {
+                "x": 3.1800060272216797,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 0.6647944140585782,
+        "velocity": 0.3807341540941001,
+        "acceleration": -0.10000000000000005,
+        "pose": {
+            "translation": {
+                "x": 3.27520751953125,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 0.9622284949063695,
+        "velocity": 0.35099074600932095,
+        "acceleration": -0.09999999999999999,
+        "pose": {
+            "translation": {
+                "x": 3.3840274810791016,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 1.3098582948312003,
+        "velocity": 0.3162277660168379,
+        "acceleration": -0.09999999999999992,
+        "pose": {
+            "translation": {
+                "x": 3.5,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 1.700755500860879,
+        "velocity": 0.27713804541387005,
+        "acceleration": -0.09999999999999992,
+        "pose": {
+            "translation": {
+                "x": 3.6159725189208984,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 2.126043375704168,
+        "velocity": 0.2346092579295412,
+        "acceleration": -0.09999999999999999,
+        "pose": {
+            "translation": {
+                "x": 3.72479248046875,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 2.5747375929170166,
+        "velocity": 0.18973983620825632,
+        "acceleration": -0.09999999999999998,
+        "pose": {
+            "translation": {
+                "x": 3.8199939727783203,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 3.0332779008469126,
+        "velocity": 0.14388580541526674,
+        "acceleration": -0.10000000000000002,
+        "pose": {
+            "translation": {
+                "x": 3.896484375,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": 0.0
+    },
+    {
+        "time": 4.47213595499958,
+        "velocity": 0.0,
+        "acceleration": -0.10000000000000002,
+        "pose": {
+            "translation": {
+                "x": 4.0,
+                "y": 4.21055
+            },
+            "rotation": {
+                "radians": 0.0
+            }
+        },
+        "curvature": "NaN"
+    }
+]
